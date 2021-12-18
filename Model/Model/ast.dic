@@ -1,0 +1,591 @@
+identifier,1,191516458
+name (SimpleName),2,186575618
+scope (NameExpr),3,33091889
+arguments,4,31248312
+statement (ExpressionStmt),5,29910877
+type (ClassOrInterfaceType),6,26265079
+value,7,23518295
+expression (MethodCallExpr),8,19396982
+statements,9,17425621
+argument (NameExpr),10,15837659
+modifier (Modifier),11,12661020
+body (BlockStmt),12,11839510
+modifiers,13,11383064
+parameter (Parameter),14,9725462
+isVarArgs='false',15,9666353
+root (MethodDeclaration),16,9572712
+variable (VariableDeclarator),17,9413055
+variables,18,9355363
+keyword='PUBLIC',19,8503800
+expression (VariableDeclarationExpr),20,8457506
+argument (StringLiteralExpr),21,8212310
+argument (MethodCallExpr),22,7832489
+scope (MethodCallExpr),23,6707459
+statement (ReturnStmt),24,6197601
+parameters,25,5947639
+expression (AssignExpr),26,5272642
+operator='ASSIGN',27,5121440
+type (PrimitiveType),28,5019080
+type (VoidType),29,4870193
+content,30,4657559
+name (Name),31,4575533
+operator='PLUS',32,4444775
+annotations,33,4296167
+statement (IfStmt),34,4241779
+initializer (MethodCallExpr),35,4238638
+annotation (MarkerAnnotationExpr),36,3974011
+scope (FieldAccessExpr),37,3968615
+left (NameExpr),38,3897917
+argument (FieldAccessExpr),39,3830708
+typeArgument (ClassOrInterfaceType),40,3797740
+thenStmt (BlockStmt),41,3788676
+target (NameExpr),42,3594853
+argument (IntegerLiteralExpr),43,3404768
+typeArguments,44,3393258
+expression (NameExpr),45,3345827
+condition (BinaryExpr),46,3301179
+left (BinaryExpr),47,3213342
+type='INT',48,2940732
+comment (LineComment),49,2849455
+scope (ClassOrInterfaceType),50,2842883
+scope (ThisExpr),51,2638755
+right (NameExpr),52,2232867
+right (NullLiteralExpr),53,2031617
+operator='EQUALS',54,2001763
+initializer (ObjectCreationExpr),55,1968415
+right (StringLiteralExpr),56,1772003
+argument (BinaryExpr),57,1765565
+left (MethodCallExpr),58,1725854
+right (IntegerLiteralExpr),59,1655046
+comment (JavadocComment),60,1654216
+value (MethodCallExpr),61,1609534
+value (NameExpr),62,1572195
+keyword='FINAL',63,1504939
+target (FieldAccessExpr),64,1487129
+argument (ObjectCreationExpr),65,1410453
+operator='NOT_EQUALS',66,1332245
+thrownException (ClassOrInterfaceType),67,1322369
+right (MethodCallExpr),68,1263586
+left (StringLiteralExpr),69,1156643
+thrownExceptions,70,1144276
+keyword='STATIC',71,1025446
+type='BOOLEAN',72,1006681
+condition (MethodCallExpr),73,998095
+name (NameExpr),74,981039
+argument (BooleanLiteralExpr),75,959264
+keyword='PRIVATE',76,900755
+expression (ObjectCreationExpr),77,870868
+origin='TYPE',78,803909
+tryBlock (BlockStmt),79,789560
+statement (TryStmt),80,786514
+type (ArrayType),81,779964
+catchClause (CatchClause),82,777050
+operator='MINUS',83,757785
+argument (ClassExpr),84,756929
+expression (BooleanLiteralExpr),85,744774
+right (BinaryExpr),86,713593
+elseStmt (BlockStmt),87,699142
+value (StringLiteralExpr),88,695985
+catchClauses,89,694797
+operator='AND',90,692650
+value (ObjectCreationExpr),91,680235
+initializer (IntegerLiteralExpr),92,656224
+inner (BinaryExpr),93,629281
+operator='LOGICAL_COMPLEMENT',94,606637
+argument (NullLiteralExpr),95,604445
+operator='LESS',96,599936
+value (IntegerLiteralExpr),97,591824
+right (FieldAccessExpr),98,583092
+entrie (SwitchEntry),99,571192
+type='STATEMENT_GROUP',100,571111
+statement (ThrowStmt),101,546137
+anonymousClassBod (MethodDeclaration),102,543622
+type='LONG',103,543585
+index (NameExpr),104,531702
+operator='POSTFIX_INCREMENT',105,529750
+expression (FieldAccessExpr),106,525486
+argument (ThisExpr),107,519899
+index (IntegerLiteralExpr),108,518773
+labels,109,514459
+keyword='PROTECTED',110,501696
+componentType (ClassOrInterfaceType),111,461931
+initializer (CastExpr),112,455496
+operator='MULTIPLY',113,449226
+anonymousClassBody,114,440199
+statement (ForStmt),115,434901
+initialization,116,431191
+left (FieldAccessExpr),117,423526
+compare (BinaryExpr),118,422576
+update,119,422125
+initializatio (VariableDeclarationExpr),120,417006
+updat (UnaryExpr),121,410969
+variable (VariableDeclarationExpr),122,409307
+statement (ForEachStmt),123,408219
+value (BinaryExpr),124,402270
+elseStmt (IfStmt),125,396987
+thenStmt (ReturnStmt),126,395918
+level (ArrayCreationLevel),127,386363
+type='DOUBLE',128,385307
+operator='OR',129,383189
+expression (ThisExpr),130,380004
+thenStmt (ExpressionStmt),131,378928
+annotation (SingleMemberAnnotationExpr),132,371451
+statement (BreakStmt),133,370098
+condition (UnaryExpr),134,368342
+levels,135,364393
+expression (IntegerLiteralExpr),136,362226
+values,137,358387
+componentType (PrimitiveType),138,354133
+pair (MemberValuePair),139,350097
+scope (SuperExpr),140,339390
+initializer (BinaryExpr),141,327911
+type='BYTE',142,321453
+value (BooleanLiteralExpr),143,319187
+right (EnclosedExpr),144,312785
+operator='GREATER',145,307012
+argument (LambdaExpr),146,306309
+scope (ObjectCreationExpr),147,299669
+memberValue (StringLiteralExpr),148,290863
+value (CastExpr),149,289356
+type (UnknownType),150,267935
+target (ArrayAccessExpr),151,261523
+typeArgument (WildcardType),152,258843
+expression (BinaryExpr),153,257356
+body (ExpressionStmt),154,255718
+expression (NullLiteralExpr),155,255510
+value (FieldAccessExpr),156,254051
+initializer (ArrayInitializerExpr),157,250082
+argument (ArrayAccessExpr),158,249350
+iterable (NameExpr),159,247376
+initializer (NullLiteralExpr),160,246493
+left (EnclosedExpr),161,239227
+elementType (ClassOrInterfaceType),162,230049
+argument (CastExpr),163,228262
+pairs,164,227204
+initializer (StringLiteralExpr),165,226958
+condition (NameExpr),166,224384
+annotation (NormalAnnotationExpr),167,214052
+type='FLOAT',168,211204
+operator='DIVIDE',169,209229
+statement (WhileStmt),170,198809
+expression (CastExpr),171,193024
+scope (EnclosedExpr),172,191610
+argument (DoubleLiteralExpr),173,190321
+inner (CastExpr),174,189768
+right (UnaryExpr),175,189021
+typeName (Name),176,187998
+expression (UnaryExpr),177,185750
+isEnclosingParameters='false',178,185015
+argument (ArrayCreationExpr),179,174519
+scope (ArrayAccessExpr),180,172841
+value (NullLiteralExpr),181,163782
+expression (EnclosedExpr),182,160612
+argument (UnaryExpr),183,155572
+label (NameExpr),184,154824
+comment (BlockComment),185,154214
+left (IntegerLiteralExpr),186,149985
+iterable (MethodCallExpr),187,145815
+isEnclosingParameters='true',188,143000
+elseExpr (MethodCallExpr),189,140898
+elementType (PrimitiveType),190,134344
+condition (InstanceOfExpr),191,131523
+operator='GREATER_EQUALS',192,130543
+label (FieldAccessExpr),193,128003
+initializer (ArrayCreationExpr),194,125734
+left (ArrayAccessExpr),195,123352
+inner (ConditionalExpr),196,122244
+argument (LongLiteralExpr),197,121357
+expression (StringLiteralExpr),198,119837
+operator='LESS_EQUALS',199,117402
+right (BooleanLiteralExpr),200,115368
+label (IntegerLiteralExpr),201,114996
+condition (EnclosedExpr),202,114067
+finallyBlock (BlockStmt),203,109500
+entries,204,108725
+statement (SwitchStmt),205,108691
+initializer (NameExpr),206,104820
+name (ArrayAccessExpr),207,103260
+keyword='NATIVE',208,102044
+right (CharLiteralExpr),209,99946
+thenExpr (IntegerLiteralExpr),210,98732
+scope (StringLiteralExpr),211,98650
+argument (MethodReferenceExpr),212,98560
+scope (ClassExpr),213,96850
+index (BinaryExpr),214,92574
+argument (CharLiteralExpr),215,90025
+value (ArrayInitializerExpr),216,89444
+typeParameter (TypeParameter),217,87917
+initializer (FieldAccessExpr),218,84591
+scope (TypeExpr),219,84258
+label (StringLiteralExpr),220,83551
+value (DoubleLiteralExpr),221,82328
+initializer (BooleanLiteralExpr),222,82255
+right (DoubleLiteralExpr),223,78988
+keyword='ABSTRACT',224,77714
+right (ArrayAccessExpr),225,76264
+left (UnaryExpr),226,75894
+operator='XOR',227,73053
+typeParameters,228,71027
+value (ArrayAccessExpr),229,70964
+thenExpr (MethodCallExpr),230,70222
+operator='BINARY_AND',231,68997
+qualifier (Name),232,68323
+dimension (IntegerLiteralExpr),233,67325
+expression (ArrayAccessExpr),234,66910
+type='CHAR',235,65437
+selector (NameExpr),236,63448
+expression (ConditionalExpr),237,60091
+name (FieldAccessExpr),238,60041
+isVarArgs='true',239,59109
+value (UnaryExpr),240,57927
+extendedType (ClassOrInterfaceType),241,57915
+resource (VariableDeclarationExpr),242,56795
+initializer (ArrayAccessExpr),243,56102
+argument (ConditionalExpr),244,55308
+initializer (ConditionalExpr),245,54297
+value (ClassExpr),246,53945
+statement (BlockStmt),247,53007
+name (MethodCallExpr),248,52290
+elseStmt (ExpressionStmt),249,52206
+statement (ContinueStmt),250,50015
+operator='PREFIX_INCREMENT',251,49035
+resources,252,49011
+left (ThisExpr),253,48325
+origin='NAME',254,46687
+inner (MethodCallExpr),255,46511
+operator='REMAINDER',256,45127
+operator='BINARY_OR',257,44796
+left (NullLiteralExpr),258,43730
+keyword='SYNCHRONIZED',259,43417
+dimension (NameExpr),260,42176
+statement (SynchronizedStmt),261,41852
+element (ClassOrInterfaceType),262,41446
+statement (AssertStmt),263,40041
+elseExpr (NameExpr),264,39760
+elseExpr (IntegerLiteralExpr),265,37403
+expression (DoubleLiteralExpr),266,37305
+thenStmt (ThrowStmt),267,36645
+value (ArrayCreationExpr),268,36186
+typeArgument (ArrayType),269,36010
+value (ConditionalExpr),270,35720
+selector (MethodCallExpr),271,35644
+left (InstanceOfExpr),272,34787
+operator='POSTFIX_DECREMENT',273,34535
+componentType (ArrayType),274,34532
+thenExpr (StringLiteralExpr),275,34025
+condition (BooleanLiteralExpr),276,33301
+type='SHORT',277,33158
+thenExpr (NameExpr),278,32769
+left (CastExpr),279,31849
+memberValue (ArrayInitializerExpr),280,31779
+inner (InstanceOfExpr),281,31634
+inner (AssignExpr),282,30332
+elseExpr (StringLiteralExpr),283,29905
+thenStmt (BreakStmt),284,29534
+thenExpr (NullLiteralExpr),285,28250
+operator='LEFT_SHIFT',286,27400
+expression (ClassExpr),287,26972
+label (CharLiteralExpr),288,26356
+value (CharLiteralExpr),289,26311
+index (UnaryExpr),290,25005
+memberValue (FieldAccessExpr),291,24965
+argument (EnclosedExpr),292,24878
+right (CastExpr),293,24722
+left (DoubleLiteralExpr),294,24333
+expression (ArrayCreationExpr),295,24295
+dimension (MethodCallExpr),296,23753
+condition (FieldAccessExpr),297,21460
+elseExpr (NullLiteralExpr),298,20919
+check (BinaryExpr),299,20861
+thenExpr (FieldAccessExpr),300,20709
+value (EnclosedExpr),301,20146
+elseExpr (FieldAccessExpr),302,19564
+initializer (UnaryExpr),303,19508
+argument (InstanceOfExpr),304,18962
+typeBoun (ClassOrInterfaceType),305,18805
+typeBound,306,18310
+operator='SIGNED_RIGHT_SHIFT',307,18238
+elseExpr (BinaryExpr),308,18037
+dimension (BinaryExpr),309,17424
+right (LongLiteralExpr),310,17136
+superType (ClassOrInterfaceType),311,16964
+elements,312,16909
+type (UnionType),313,16811
+elseStmt (ReturnStmt),314,16726
+initializer (EnclosedExpr),315,16351
+right (InstanceOfExpr),316,16296
+statement (DoStmt),317,15903
+dimension (FieldAccessExpr),318,15845
+value (NormalAnnotationExpr),319,15533
+thenExpr (BinaryExpr),320,15304
+initializer (DoubleLiteralExpr),321,15046
+inner (NameExpr),322,14660
+initializatio (AssignExpr),323,14133
+updat (AssignExpr),324,12936
+anonymousClassBod (FieldDeclaration),325,12710
+index (MethodCallExpr),326,12311
+right (ClassExpr),327,12027
+operator='UNSIGNED_RIGHT_SHIFT',328,11891
+iterable (FieldAccessExpr),329,11666
+expression (LambdaExpr),330,10563
+compare (MethodCallExpr),331,10492
+thenExpr (UnaryExpr),332,10385
+inner (UnaryExpr),333,9909
+thenStmt (ContinueStmt),334,9635
+index (FieldAccessExpr),335,9627
+value (LongLiteralExpr),336,9580
+memberValue (NameExpr),337,9370
+initializer (LambdaExpr),338,8499
+expression (LongLiteralExpr),339,8271
+value (AssignExpr),340,8195
+statement (EmptyStmt),341,8013
+memberValue (ClassExpr),342,7891
+thenExpr (ObjectCreationExpr),343,7882
+right (ThisExpr),344,7629
+label (SimpleName),345,7510
+check (MethodCallExpr),346,7482
+elseExpr (ObjectCreationExpr),347,7207
+initializer (LongLiteralExpr),348,7065
+check (EnclosedExpr),349,7011
+inner (ObjectCreationExpr),350,6972
+isStatic='false',351,6837
+anonymousClassBod (InitializerDeclaration),352,6828
+left (LongLiteralExpr),353,6802
+condition (ConditionalExpr),354,6346
+operator='PREFIX_DECREMENT',355,5981
+elseExpr (UnaryExpr),356,5717
+body (IfStmt),357,5690
+selector (FieldAccessExpr),358,5174
+index (ArrayAccessExpr),359,5152
+inner (FieldAccessExpr),360,4975
+thenExpr (CastExpr),361,4961
+operator='BITWISE_COMPLEMENT',362,4948
+value (ThisExpr),363,4621
+elseExpr (EnclosedExpr),364,4560
+message (StringLiteralExpr),365,4430
+thenExpr (BooleanLiteralExpr),366,4409
+argument (AssignExpr),367,4232
+inner (StringLiteralExpr),368,4030
+member (MethodDeclaration),369,3904
+elseExpr (BooleanLiteralExpr),370,3848
+left (BooleanLiteralExpr),371,3808
+left (CharLiteralExpr),372,3675
+elseStmt (ThrowStmt),373,3529
+memberValue (IntegerLiteralExpr),374,3447
+expression (InstanceOfExpr),375,3446
+thenExpr (EnclosedExpr),376,3403
+thenExpr (ArrayAccessExpr),377,3353
+elseExpr (ConditionalExpr),378,3284
+label (UnaryExpr),379,3243
+initializer (ThisExpr),380,3200
+expression (CharLiteralExpr),381,3148
+statement (LabeledStmt),382,3126
+memberValue (BinaryExpr),383,3118
+elseExpr (CastExpr),384,3069
+message (BinaryExpr),385,3039
+label (EnclosedExpr),386,2964
+thenStmt (IfStmt),387,2885
+condition (ArrayAccessExpr),388,2844
+inner (EnclosedExpr),389,2779
+isInterface='false',390,2603
+statement (LocalClassDeclarationStmt),391,2551
+classDeclaration (ClassOrInterfaceDeclaration),392,2551
+inner (IntegerLiteralExpr),393,2496
+members,394,2455
+thenStmt (TryStmt),395,2452
+right (ObjectCreationExpr),396,2417
+thenExpr (DoubleLiteralExpr),397,2293
+member (FieldDeclaration),398,2039
+inner (ArrayAccessExpr),399,2012
+body (ForStmt),400,1936
+selector (ConditionalExpr),401,1866
+elseExpr (ArrayAccessExpr),402,1849
+value (LambdaExpr),403,1762
+expression (MethodReferenceExpr),404,1756
+check (UnaryExpr),405,1748
+iterable (ArrayCreationExpr),406,1630
+initializer (ClassExpr),407,1604
+initializer (CharLiteralExpr),408,1451
+check (BooleanLiteralExpr),409,1425
+index (CastExpr),410,1366
+selector (ArrayAccessExpr),411,1353
+elseExpr (DoubleLiteralExpr),412,1352
+inner (ThisExpr),413,1351
+inner (BooleanLiteralExpr),414,1338
+name (EnclosedExpr),415,1174
+dimension (CastExpr),416,1119
+iterable (CastExpr),417,1041
+keyword='DEFAULT',418,1039
+implementedType (ClassOrInterfaceType),419,1019
+body (EmptyStmt),420,1007
+extendedTypes,421,996
+check (InstanceOfExpr),422,968
+implementedTypes,423,932
+index (EnclosedExpr),424,857
+message (NameExpr),425,817
+thenStmt (EmptyStmt),426,815
+elseExpr (CharLiteralExpr),427,809
+left (ClassExpr),428,790
+thenExpr (ArrayCreationExpr),429,789
+initializer (MethodReferenceExpr),430,780
+elseExpr (ArrayCreationExpr),431,769
+thenStmt (ForEachStmt),432,762
+thenExpr (CharLiteralExpr),433,752
+selector (BinaryExpr),434,727
+thenStmt (ForStmt),435,694
+elseStmt (BreakStmt),436,686
+inner (LambdaExpr),437,672
+iterable (ThisExpr),438,665
+updat (MethodCallExpr),439,626
+member (ConstructorDeclaration),440,613
+inner (DoubleLiteralExpr),441,609
+iterable (ArrayAccessExpr),442,569
+left (ObjectCreationExpr),443,558
+initializer (InstanceOfExpr),444,528
+inner (NullLiteralExpr),445,494
+compare (UnaryExpr),446,477
+condition (CastExpr),447,476
+check (NameExpr),448,461
+message (MethodCallExpr),449,435
+thenExpr (LongLiteralExpr),450,427
+thenExpr (ConditionalExpr),451,418
+elseExpr (LongLiteralExpr),452,409
+selector (CastExpr),453,399
+iterable (ObjectCreationExpr),454,374
+inner (ArrayCreationExpr),455,370
+thenExpr (ThisExpr),456,355
+initializer (AssignExpr),457,328
+1,458,326
+elseStmt (TryStmt),459,311
+initializatio (MethodCallExpr),460,310
+thenExpr (ClassExpr),461,295
+inner (CharLiteralExpr),462,290
+value (SingleMemberAnnotationExpr),463,285
+body (TryStmt),464,283
+condition (AssignExpr),465,280
+body (ForEachStmt),466,263
+label (CastExpr),467,263
+label (BinaryExpr),468,259
+elseExpr (ClassExpr),469,250
+index (ConditionalExpr),470,248
+statement (ExplicitConstructorInvocationStmt),471,246
+elseExpr (ThisExpr),472,238
+isThis='false',473,237
+value (MethodReferenceExpr),474,235
+selector (ThisExpr),475,222
+index (AssignExpr),476,186
+compare (EnclosedExpr),477,165
+elseStmt (ContinueStmt),478,160
+dimension (ArrayAccessExpr),479,153
+memberValue (BooleanLiteralExpr),480,149
+keyword='VOLATILE',481,145
+elseStmt (ForStmt),482,135
+thenStmt (SwitchStmt),483,134
+iterable (EnclosedExpr),484,127
+thenExpr (AssignExpr),485,127
+dimension (ConditionalExpr),486,121
+elseExpr (LambdaExpr),487,121
+dimension (EnclosedExpr),488,121
+elseStmt (EmptyStmt),489,116
+receiverParameter (ReceiverParameter),490,114
+value (InstanceOfExpr),491,104
+initializatio (UnaryExpr),492,103
+thenStmt (WhileStmt),493,98
+type (IntersectionType),494,98
+inner (ClassExpr),495,92
+thenExpr (LambdaExpr),496,89
+compare (BooleanLiteralExpr),497,84
+elseStmt (SwitchStmt),498,81
+check (AssignExpr),499,72
+check (FieldAccessExpr),500,72
+elseStmt (WhileStmt),501,70
+thenExpr (MethodReferenceExpr),502,65
+scope (CastExpr),503,65
+elseStmt (ForEachStmt),504,64
+extendedType (ArrayType),505,62
+initializer (TextBlockLiteralExpr),506,60
+index (CharLiteralExpr),507,57
+thenStmt (SynchronizedStmt),508,56
+memberValue (LongLiteralExpr),509,56
+memberValue (NormalAnnotationExpr),510,56
+name (ArrayCreationExpr),511,54
+message (FieldAccessExpr),512,53
+compare (NameExpr),513,49
+thenStmt (AssertStmt),514,48
+body (SwitchStmt),515,45
+elseExpr (MethodReferenceExpr),516,44
+thenStmt (DoStmt),517,43
+type='EXPRESSION',518,41
+iterable (ConditionalExpr),519,40
+inner (LongLiteralExpr),520,39
+type='BLOCK',521,37
+anonymousClassBod (ClassOrInterfaceDeclaration),522,36
+inner (MethodReferenceExpr),523,35
+selector (EnclosedExpr),524,34
+memberValue (UnaryExpr),525,31
+dimension (UnaryExpr),526,30
+selector (AssignExpr),527,29
+superType (ArrayType),528,28
+selector (UnaryExpr),529,27
+selector (IntegerLiteralExpr),530,19
+scope (ArrayCreationExpr),531,19
+keyword='TRANSIENT',532,18
+left (ArrayCreationExpr),533,18
+message (ObjectCreationExpr),534,17
+body (AssertStmt),535,17
+check (ConditionalExpr),536,17
+message (ThisExpr),537,16
+member (ClassOrInterfaceDeclaration),538,16
+varArgsAnnotations,539,15
+value (MarkerAnnotationExpr),540,15
+body (ReturnStmt),541,14
+elseExpr (InstanceOfExpr),542,14
+elseStmt (AssertStmt),543,13
+message (EnclosedExpr),544,13
+thenExpr (InstanceOfExpr),545,12
+body (WhileStmt),546,12
+scope (ConditionalExpr),547,11
+compare (ConditionalExpr),548,11
+compare (InstanceOfExpr),549,11
+memberValue (EnclosedExpr),550,11
+varArgsAnnotation (MarkerAnnotationExpr),551,11
+member (InitializerDeclaration),552,9
+right (ArrayCreationExpr),553,9
+isThis='true',554,9
+elseStmt (SynchronizedStmt),555,9
+dimension (AssignExpr),556,8
+selector (StringLiteralExpr),557,8
+keyword='STRICTFP',558,7
+thenStmt (LabeledStmt),559,7
+dimension (CharLiteralExpr),560,6
+body (ContinueStmt),561,6
+body (BreakStmt),562,6
+right (TextBlockLiteralExpr),563,5
+inner (TextBlockLiteralExpr),564,5
+argument (TextBlockLiteralExpr),565,5
+message (ArrayAccessExpr),566,5
+condition (ObjectCreationExpr),567,5
+varArgsAnnotation (SingleMemberAnnotationExpr),568,4
+body (ThrowStmt),569,4
+body (LabeledStmt),570,3
+iterable (AssignExpr),571,3
+memberValue (ConditionalExpr),572,3
+type='THROWS_STATEMENT',573,3
+compare (AssignExpr),574,3
+target (EnclosedExpr),575,3
+body (SynchronizedStmt),576,2
+left (TextBlockLiteralExpr),577,2
+message (AssignExpr),578,2
+elseStmt (DoStmt),579,2
+expression (TextBlockLiteralExpr),580,2
+check (ArrayAccessExpr),581,1
+memberValue (MarkerAnnotationExpr),582,1
+check (CastExpr),583,1
+selector (ObjectCreationExpr),584,1
+compare (ArrayAccessExpr),585,1
+updat (BinaryExpr),586,1
+elseStmt (LabeledStmt),587,1
+iterable (MethodReferenceExpr),588,1
+scope (TextBlockLiteralExpr),589,1
+message (ArrayCreationExpr),590,1
+message (ConditionalExpr),591,1
